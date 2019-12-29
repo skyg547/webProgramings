@@ -1,0 +1,16 @@
+div {
+  
+  width:100px;
+  height:100px;
+  border:1px solid red;
+  padding:px;
+  font-size:0.8em;
+}
+
+.box-content{
+  box-sizing:content-box;
+}
+.box-border{
+  
+  box-sizing:border-box;
+}
